@@ -1,0 +1,101 @@
+[
+  {
+    "id": 1,
+    "icon": "🔋",
+    "title": "Point Miner (Core)",
+    "desc": "Kumpulkan resource dengan menambang Core. hanya dengan pecahkan Core lah kamu bisa mendapat Diamond/Crystal",
+    "period": "Coming soon",
+    "steps": [
+      "💥 Pecahkan Core untuk mengumpulkan Point.",
+      "⚙️ Upgrade Conveyor untuk meningkatkan kecepatan pengumpulan Point.",
+      "🔧 Refine Point menjadi Diamond, Crystal, dan Token sesuai kebutuhan.",
+      "🎯 Setelah proses refine selesai, klaim hasilnya ke inventori.",
+      "🎁 Kumpulkan item-item hasil refine untuk ditukar dengan hadiah menarik saat event utama dibuka."
+    ],
+    "actionText": "Mulai Menambang",
+    "actionLink": "/events/point-miner",
+    "cover": "https://via.placeholder.com/150x100?text=Point+Miner"
+  },
+  {
+    "id": 2,
+    "icon": "📝",
+    "title": "Release Thema “Kuromaid”",
+    "desc": "Dapatkam Thema elite eksklusif limited edition Khusus +30 player tercepat, ini adalah versi mini dari premium.",
+    "period": "5–12 Juli 2025",
+    "steps": [
+      "Cek halaman \"Reward\"",
+      "Klik \"Claim Thema\".",
+      "Unduh file ZIP tema.",
+      "Upload ke Blogger > Tema > Pulihkan.",
+      "Aktifkan dan sesuaikan jika perlu."
+    ],
+    "actionText": "Claim Thema",
+    "actionLink": "/events/kuromaid",
+    "cover": "https://via.placeholder.com/150x100?text=Kuromaid"
+  },
+  {
+    "id": 3,
+    "icon": "⛏️",
+    "title": "Mining Point",
+    "desc": "Dapatkan poin tambahan dengan mining manual.",
+    "period": "Coming soon",
+    "steps": [
+      "Buka halaman Mining Point.",
+      "Klik “Manual Mining” sebanyak mungkin.",
+      "Kumpulkan bonus poin per klik.",
+      "Lihat leaderboard untuk melihat posisi Anda."
+    ],
+    "actionText": "Lihat Leaderboard",
+    "actionLink": "/events/mining-point",
+    "cover": "https://via.placeholder.com/150x100?text=Mining+Point"
+  },
+  {
+    "id": 4,
+    "icon": "💬",
+    "title": "Chat to Get Point",
+    "desc": "Dapatkan poin dengan berdiskusi di ruang yang ditentukan Oleh Dev.",
+    "period": "Coming soon",
+    "steps": [
+      "Masuk ke DevTalk Chat.",
+      "Kirim minimal 10 kata dan sertakan tag code.",
+      "Setiap pesan valid akan mendapat 20 poin.",
+      "Maksimal 100 poin per hari.",
+      "Spam akan dibanned, jadi jangan spam, 1x pesan harus ada jeda 10 detik"
+    ],
+    "actionText": "Gabung Chat",
+    "actionLink": "/events/chat-to-point",
+    "cover": "https://via.placeholder.com/150x100?text=Chat+Point"
+  },
+  {
+    "id": 5,
+    "icon": "🔐",
+    "title": "Login to Get Point",
+    "desc": "Dapatkan poin bonus setiap kali login harian.",
+    "period": "Setiap hari",
+    "steps": [
+      "Login ke akun Anda sebelum pukul 23:59 WIB+7.",
+      "Klik tombol “Claim Login”.",
+      "Kumpulkan hingga 300 poin per hari.",
+      "Login 7 hari berturut-turut untuk bonus ekstra."
+    ],
+    "actionText": "Claim Login",
+    "actionLink": "/events/login-bonus",
+    "cover": "https://via.placeholder.com/150x100?text=Login+Bonus"
+  },
+  {
+    "id": 6,
+    "icon": "✨",
+    "title": "Surprise Mini-Event",
+    "desc": "Event kejutan dengan hadiah spesial setiap minggu.",
+    "period": "Berlaku terus",
+    "steps": [
+      "Pantau notifikasi setiap Senin pagi.",
+      "Ikuti instruksi challenge di panel event.",
+      "Kumpulkan poin challenge untuk redeem hadiah.",
+      "Challenge berganti setiap minggu."
+    ],
+    "actionText": "Lihat Semua Event",
+    "actionLink": "/events/all",
+    "cover": "https://via.placeholder.com/150x100?text=Mini+Event"
+  }
+]
